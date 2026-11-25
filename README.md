@@ -41,14 +41,3 @@
 * **`md`（Markdown 经营简报）**：结构化纯文本与表格，适合直接复制发送飞书/企业微信/钉钉汇报或供大模型二次解读。
 
 ---
-
-## 🚀 快速上手
-
-### 1. 环境安装
-
-```bash
-git clone [https://github.com/](https://github.com/)<你的用户名>/fmcg-sales-bi-pipeline.git
-cd fmcg-sales-bi-pipeline
-
-# 安装核心依赖（如需生成 PPTX 幻灯片，请一并安装 python-pptx 和 matplotlib）
-pip install -r requirements.txt
